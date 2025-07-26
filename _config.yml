@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Chenyuan Li"
   pronouns         :
-  bio              : "DDS-trained researcher with cross-disciplinary expertise in digital dentistry, healthcare data science, and AI product innovation."
+  bio              : "DDS-trained, PhD researcher, Focus on digital dentistry, healthcare data science, and AI product innovation."
   location         : "Houston, Texas"
   employer         : "UTHealth Houston"
   uri              : # URL
@@ -36,9 +36,9 @@ author:
   #arxiv            : 
   googlescholar    : "https://scholar.google.com/citations?user=SJm-RW4AAAAJ&hl=zh-CN"
   #impactstory      : 
-  #orcid            : "http://orcid.org/yourorcidurl"
+  #orcid            : 
   #semantic         : 
-  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #pubmed           : 
   researchgate      : "https://www.researchgate.net/profile/Chenyuan-Li-6?ev=hdr_xprf"
   #scopus           : 
 
