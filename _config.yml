@@ -30,11 +30,16 @@ author:
   employer         : "UTHealth Houston"
   uri              : # URL
   email            : "Chenyuan.Li@uth.tmc.edu" 
+  linkedin         : "https://www.linkedin.com/in/chenyuan-li-619101234/"
+  googlescholar     : "https://scholar.google.com/citations?user=SJm-RW4AAAAJ&hl=zh-CN"
+  researchgate      : "https://www.researchgate.net/profile/Chenyuan-Li-6?ev=hdr_xprf"
+  github            : "https://github.com/chrisli-lcy"
+
+
 
   # Academic websites
   #academia         :
   #arxiv            : 
-  googlescholar    : "https://scholar.google.com/citations?user=SJm-RW4AAAAJ&hl=zh-CN"
   #impactstory      : 
   #orcid            : 
   #semantic         : 
@@ -53,7 +58,7 @@ author:
   # Social media
   facebook         : "https://www.facebook.com/chenyuan.li.82861/ "
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
