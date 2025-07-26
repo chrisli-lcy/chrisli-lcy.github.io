@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Chenyuan Li"
-  pronouns         : # example: "she/her"  
+  pronouns         :
   bio              : "DDS-trained researcher with cross-disciplinary expertise in digital dentistry, healthcare data science, and AI product innovation."
   location         : "Houston, Texas"
   employer         : "UTHealth Houston"
@@ -32,25 +32,26 @@ author:
   email            : "Chenyuan.Li@uth.tmc.edu" 
 
   # Academic websites
-  #academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
+  #academia         :
+  #arxiv            : 
   googlescholar    : "https://scholar.google.com/citations?user=SJm-RW4AAAAJ&hl=zh-CN"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  #impactstory      : 
+  #orcid            : "http://orcid.org/yourorcidurl"
+  #semantic         : 
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate      : "https://www.researchgate.net/profile/Chenyuan-Li-6?ev=hdr_xprf"
+  #scopus           : 
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/chrisli-lcy"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
+  facebook         : "https://www.facebook.com/chenyuan.li.82861/ "
   artstation       : # Username
   bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
@@ -61,7 +62,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/chenyuan-li-619101234/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
