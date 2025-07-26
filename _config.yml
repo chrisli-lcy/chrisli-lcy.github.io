@@ -25,16 +25,16 @@ author:
   avatar           : "profile.png"
   name             : "Chenyuan Li"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "DDS-trained researcher with cross-disciplinary expertise in digital dentistry, healthcare data science, and AI product innovation."
   location         : "Houston, Texas"
   employer         : "UTHealth Houston"
   uri              : # URL
   email            : "Chenyuan.Li@uth.tmc.edu" 
 
   # Academic websites
-  academia         : # URL
+  #academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=SJm-RW4AAAAJ&hl=zh-CN"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
