@@ -22,8 +22,8 @@ repository               : "chrisli-lcy.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/avatar-400.jpg"
-  name             : "Chenyuan Li"
+  avatar           : "images/avatar-400.jpg"
+  name             : "Chenyuan Li" 
   pronouns         :
   bio              : "DDS-trained, PhD researcher, Focus on digital dentistry, healthcare data science, and AI product innovation."
   location         : "Houston, Texas"
