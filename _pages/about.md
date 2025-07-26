@@ -10,7 +10,7 @@ I work on Department of Health Data Science and Artificial Intelligence at [UTHe
 
 My first-author and co-author research has been presented at international meetings, including IADR, AADOCR,FDI, and JASD, and published in [International Journal of Bioprinting](https://accscience.com/journal/IJB/10/4/10.36922/ijb.2469), Polymers, and other peer-reviewed journals, covering CAD/CAM, 3D printing in sports dentistry, dental biomaterials, and digital dentistry workflows.
 
-We are developing a dental foundation model(Priject number:[BM-DR43])(https://www.uth.edu/bigmouth/research-publications) based on 5M+ structured EHR records, integrating hierarchical coding, semantic embeddings, and multi-task learning for clinical support, patient risk prediction, and treatment pathway generation. Our work combines PySpark, SQL, and deep learning to deliver scalable AI solutions for dental healthcare.
+We are developing a dental foundation model [Project number:[BM-DR43](https://www.uth.edu/bigmouth/research-publications)] based on 5M+ structured EHR records, integrating hierarchical coding, semantic embeddings, and multi-task learning for clinical support, patient risk prediction, and treatment pathway generation. Our work combines PySpark, SQL, and deep learning to deliver scalable AI solutions for dental healthcare.
 
 My research has contributed to CAD/CAM innovation, 3D printed sports mouthguards, and dental polymer durability evaluation, influencing both clinical workflow optimization and material science development. It has also been recognized by awards such as [Wise Scholarship for Pioneer Research](https://www.tmd.ac.jp/campuslife/takuetsu/) in JST and the [Neo Pharmaceutical Industry Award](https://kokuhoken.net/jasd/award/) in JASD.
 
