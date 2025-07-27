@@ -23,7 +23,7 @@ repository               : "chrisli-lcy.github.io"
 author:
   # Biographic information
   name             : "Chenyuan Li" 
-  avatar           : 
+  avatar           : "images/bio-photo.jpg"
   pronouns         :
   bio              : "DDS-trained, PhD researcher, Focus on digital dentistry, healthcare data science, and AI product innovation."
   location         : "Houston, Texas"
