@@ -16,4 +16,4 @@ My research has contributed to CAD/CAM innovation, 3D printed sports mouthguards
 
 I serve as a researcher at alma mater [Institute of Science Tokyo](https://www.tmd.ac.jp/english/news/20240619084424/), supporting professors and junior researchers in project design, manuscript development, and peer review.
 
-For more information, please check out my [CV](https://github.com/chrisli-lcy/chrisli-lcy.github.io/blob/master/assets/Chenyuan_Li_CV_Github.pdf) and [research updates](https://scholar.google.com/citations?user=SJm-RW4AAAAJ&hl=zh-CN).
+For more information, please check out my [CV](https://github.com/chrisli-lcy/chrisli-lcy.github.io/blob/master/assets/Chenyuan_Li_CV_Github_1.pdf) and [research updates](https://scholar.google.com/citations?user=SJm-RW4AAAAJ&hl=en).
